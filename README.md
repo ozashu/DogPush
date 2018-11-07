@@ -2,6 +2,10 @@
 
 DogPush enables to manage your DataDog monitors in YAML files.
 
+# Support for Python3
+
+This repository supports for python3.
+
 ## Why would I want to manage my monitors in YAML files?
 
 Excellent question. So many reasons:
